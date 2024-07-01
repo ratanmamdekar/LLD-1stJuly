@@ -1,0 +1,20 @@
+Dream 11 -- LLD
+
+User -> register
+sports - football, cricket, basketball
+create contest for each sport
+user can join contest - create a team ( by selecting players from participating teams)
+leader board for contest - points/ranking - view other users team -> points are for actions by player
+
+do not allow update on team when match starts, allow changing team until match has started
+team annocument -> player not playing -> notify user
+
+
+validations
+immutibility
+thread safety
+concurrency
+
+
+ public and private
+
